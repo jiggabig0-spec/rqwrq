@@ -1,0 +1,5 @@
+mkdir brewchain-assets && cd brewchain-assets
+git init
+echo "# BrewChain 3D Assets" > README.md
+mkdir -p public/models
+# put your file here, e.g. public/models/hop.glb
